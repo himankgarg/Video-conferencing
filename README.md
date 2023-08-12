@@ -1,27 +1,31 @@
-# zoom-clone-2.0
+#Let's meet 
+
+🌟 Introducing my latest project: a cutting-edge video conferencing application powered by Socket.io, WebRTC, and Node.js. 🌐🎥💻 Connect, collaborate, and conquer distance like never before. Join the revolution! 🌍🚀
 
 ## Features
-- Inro page (Host a meeting or join a meeting page)
-- Name Feature(You can see names of participants)
+- Home page (Host a meeting or join a meeting page)
+
+  ![WhatsApp Image 2023-08-12 at 22 24 05](https://github.com/himankgarg/Video-conferencing/assets/74090569/f5bc0fb7-6382-49d1-b7d0-24132f19b8b5)
+
+  
+- You can see names of participants
+
+  ![WhatsApp Image 2023-08-12 at 22 36 45](https://github.com/himankgarg/Video-conferencing/assets/74090569/073d78a0-cf1f-4c2d-8e45-b8d89a29f936)
+
+  
 - Video and Voice chat
-- Live chat
+
+  ![WhatsApp Image 2023-08-12 at 22 38 04](https://github.com/himankgarg/Video-conferencing/assets/74090569/87d7639a-8212-4569-904c-7de7b389e579)
+
 - Invite Participants
-- close/Open Video
+
+  ![WhatsApp Image 2023-08-12 at 22 35 54](https://github.com/himankgarg/Video-conferencing/assets/74090569/c63553ae-9951-41ea-9894-83f2287bcb22)
+
+  
+- Close/Open Video
+
+  ![WhatsApp Image 2023-08-12 at 22 35 32](https://github.com/himankgarg/Video-conferencing/assets/74090569/e8522d9d-6536-47a7-9350-b4c7be2a6afe)
+
+  
 - Mute/UnMute Audio
 
-https://user-images.githubusercontent.com/66161239/125756026-ae72e99b-171a-4155-bbed-37d1219c6d1c.mp4
-
-## Test 
-- Windows
-
-## How to run
-- git clone https://github.com/harsh317/zoom-clone-2.0.git
-- cd zoom-clone-2.0
-- npm server.js
-- Go to LocalHost:3030
-
-## tutorial
-https://medium.com/nerd-for-tech/full-stack-zoom-clone-943289af8f7d
-
-## Wanna allow Other people to join
-- Use ngrok or deploy your app on heroku
